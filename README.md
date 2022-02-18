@@ -1,16 +1,8 @@
-
-<h1 align="center">Hi 👋, I'm Nguyễn Lưu Bình</h1>
-<h3 align="center">Web Developer</h3>
-<!-- <img align="right" alt="Coding" width="400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" width="400">
-
+![alt text](./images/binhnl.gif)
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
-
-* 🌱 I'm learning ***Javascript*** and ***PHP*** 😍
+* 🌱 I'm learning ***Javascript*** and ***PHP***
 * 🏆 I usually work with ***PHP language***
-* 📫 Ask me anything you want [**here**](https://github.com/binhnguyen-gif), If I were alive, I would reply within seconds 😉
-* 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
-
+* 📫 How to reach me **binhluu@gmail.com**
 <br>
 
 ### ***🛠 Tools & Technologies***
