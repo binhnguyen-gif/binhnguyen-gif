@@ -3,8 +3,6 @@
 * 🌱 I'm learning ***Javascript*** and ***PHP***
 * 🏆 I usually work with ***PHP language***
 * 📫 How to reach me **binhluu@gmail.com**
-<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" width="400">
-
 <br>
 
 ### ***🛠 Tools & Technologies***
