@@ -3,8 +3,10 @@
 * 🌱 I'm learning ***Javascript*** and ***PHP***
 * 🏆 I usually work with ***PHP language***
 * 📫 How to reach me **binhluu@gmail.com**
-<br>
 
+### Spotify Playing 🎧
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
+<br>
 ### ***🛠 Tools & Technologies***
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
