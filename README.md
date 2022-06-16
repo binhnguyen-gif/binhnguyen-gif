@@ -1,5 +1,5 @@
 ![alt text](./images/binhnl.gif)
-### <img src="./images/stats.gif" width="30px"> ***About Me***
+<img src="./images/stats.gif" width="30px"> ***About Me***
 * 🌱 I'm learning ***Javascript*** and ***PHP***
 * 🏆 I usually work with ***PHP language***
 * 📫 How to reach me **binhluu@gmail.com**
