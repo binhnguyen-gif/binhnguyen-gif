@@ -4,8 +4,6 @@
 * 🏆 I usually work with ***PHP language***
 * 📫 How to reach me **binhluu@gmail.com**
 
-### Spotify Playing 🎧
-[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 <br>
 ### ***🛠 Tools & Technologies***
 
