@@ -1,7 +1,8 @@
 ![alt text](./images/binhnl.gif)
 ***About Me***
-* 🌱 I'm learning ***Javascript*** and ***PHP***
+* 🌱 I'm learning ***Javascript***, ***REACT-JS*** and ***PHP***
 * 🏆 I usually work with ***PHP language***
+* 🏆 I usually work with framework ***LARAVEL***
 * 📫 How to reach me **binhluu@gmail.com**
 
 <br>
