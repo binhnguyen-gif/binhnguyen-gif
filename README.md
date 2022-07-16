@@ -6,7 +6,7 @@
 * 📫 How to reach me **binhluu@gmail.com**
 
 <br>
-### ***🛠 Tools & Technologies***
+🛠 Tools & Technologies***
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -21,25 +21,22 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-
 <br>
 
 ### ***📊 GitHub Profile Stats***
 
-<p align="left">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyenary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyenary&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-<br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+<!--START_SECTION:waka-->
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br>
-   <img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nguyenary&custom_title=nguyenary's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  <br/>
-</details>
+```text
+From: 08 July 2022 - To: 15 July 2022
 
+PHP              18 hrs 36 mins  ██████████████████████▒░░   89.38 %
+Blade Template   2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+Bash             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+.env file        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
 ![divider](./images/divider.gif)
 
 <p align="center">
